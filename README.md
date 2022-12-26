@@ -22,8 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Simples jogo da velha, mostrando se a vez é do X ou O, e mostrando também se deu empate ou vitória do X ou O.
+Jogo da velha.
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/) 
+[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
